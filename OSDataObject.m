@@ -144,6 +144,8 @@
         //There is no where clause so we match!
         return YES;
     }
+    
+    return NO;
 }
 
 

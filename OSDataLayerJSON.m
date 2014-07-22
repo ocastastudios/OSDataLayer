@@ -11,7 +11,6 @@
 #import "OSDataObject.h"
 #import "OSWhereClause.h"
 #import "AFNetworking.h"
-#import "AppDelegate.h"
 
 
 #define LOCAL_FILE @"local.json"
